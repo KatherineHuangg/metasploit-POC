@@ -6,6 +6,7 @@
     2. cve-2021-41277
     3. cve-2022-29464
     4. cve-2022-26352
+    5. cve-2022-0824
 
 * docker 常用命令: [取自這裡](https://kknews.cc/code/kp2yv8p.html)
 ```shell=1
